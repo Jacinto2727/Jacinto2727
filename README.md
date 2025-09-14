@@ -10,7 +10,4 @@ A Final-year Computer Engineering student who views the world through the lens o
 ![](https://nirzak-streak-stats.vercel.app/?user=Jacinto2727&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacinto2727&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
