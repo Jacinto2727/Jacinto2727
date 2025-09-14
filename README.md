@@ -1,10 +1,10 @@
 ## 👋 About Me
 
-✨ Final-year Computer Engineering student who views the world through the lens of mathematics
-🤖 When mathematics blends with computer algorithms, it becomes machine learning — and that’s where my passion lies
-🔎 Curious about patterns and cause-and-effect relationships
-📊 Believe data, the new oil, should power fact-based decisions rather than opinions
-🌍 Strive to take mathematics and algorithms beyond books and apply them to real-world decision making
+✨ Final-year Computer Engineering student who views the world through the lens of mathematics  
+🤖 When mathematics blends with computer algorithms, it becomes machine learning — and that’s where my passion lies  
+🔎 Curious about patterns and cause-and-effect relationships  
+📊 Believe data, the new oil, should power fact-based decisions rather than opinions  
+🌍 Strive to take mathematics and algorithms beyond books and apply them to real-world decision making  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacinto27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jacintomascranghas27@gmail.com) 
